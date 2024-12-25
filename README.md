@@ -36,7 +36,7 @@ react-native-vector-icons (^10.2.0): Library for customizable vector icons.
 
 react-native-web (~0.19.13): Enables React Native components to run in a web environment.
 
-# DevDependencies
+DevDependencies
 @babel/core (^7.20.0): Compiler for converting modern JavaScript into a compatible format.
 
 # Code Structure
