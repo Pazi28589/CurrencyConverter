@@ -63,7 +63,7 @@ Embeds the Home component.
 package.json
 Contains metadata about the project, including dependencies, devDependencies, and scripts for running the app on different platforms (Android, iOS, Web).
 
-How to Run the App
+# How to Run the App
 Install dependencies:npm install
 
 Start the app:npx expo start
