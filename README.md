@@ -1,6 +1,6 @@
 # Currency Converter App
 
-This is the README file for the React Native app, outlining the project's purpose, structure, and dependencies.
+# This is the README file for the React Native app, outlining the project's purpose, structure, and dependencies.
 
 Project Overview
 The Fieta app is a simple React Native application that demonstrates the usage of React Native Paper components for UI, along with essential features such as safe area context handling and styled text. The app includes a single Home component with a headline, styled body text, and a button.
