@@ -2,10 +2,10 @@
 
 # This is the README file for the React Native app, outlining the project's purpose, structure, and dependencies.
 
-Project Overview
+# Project Overview
 The Fieta app is a simple React Native application that demonstrates the usage of React Native Paper components for UI, along with essential features such as safe area context handling and styled text. The app includes a single Home component with a headline, styled body text, and a button.
 
-Features
+# Features
 React Native Paper Integration: Utilized for beautiful, Material Design-styled components.
 
 Safe Area Context: Ensures the app layout avoids overlapping with system UI elements.
@@ -14,7 +14,7 @@ Scroll View Support: Allows scrolling through long content.
 
 Styled Components: Applied custom styles to align the content visually.
 
-Installed Packages
+# Installed Packages
 Dependencies
 @expo/metro-runtime (~4.0.0): Used internally by Expo for Metro bundler runtime.
 
@@ -36,10 +36,10 @@ react-native-vector-icons (^10.2.0): Library for customizable vector icons.
 
 react-native-web (~0.19.13): Enables React Native components to run in a web environment.
 
-DevDependencies
+# DevDependencies
 @babel/core (^7.20.0): Compiler for converting modern JavaScript into a compatible format.
 
-Code Structure
+# Code Structure
 components/Home.js
 The Home component includes:
 Text: Displays a headline and body text using variants such as headlineLarge and bodyMedium.
@@ -76,7 +76,7 @@ iOS: npm run ios
 
 Web: npm run web
 
-Custom Styling
+# Custom Styling
 The app includes custom styling for body text to ensure: Proper padding around the content.
 
 Justified text alignment for better readability.
@@ -86,7 +86,7 @@ Styles are defined using React Native's StyleSheet:
 const styles = StyleSheet.create({ body: { padding: 10, textAlign: "justify", }, });
 
 
-Key Functionality
+# Key Functionality
 Material Design Components: The app leverages React Native Paper for creating a polished user interface.
 
 Scrollable Content: Long text content is scrollable using ScrollView.
